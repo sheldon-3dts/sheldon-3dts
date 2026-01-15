@@ -1,4 +1,4 @@
-# [Sheldon Blackbeard](https://www.linkedin.com/in/sheldonblackbeard/)
+# Sheldon Blackbeard
 
 Currently building & breaking the next generation of defense tech 
 
