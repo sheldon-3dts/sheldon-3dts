@@ -156,6 +156,7 @@ These are just some of the ones I can remember, please feel free to submit more 
 - [awesome-cpp curated list of C++ libraries](https://github.com/fffaraz/awesome-cpp)
 - [Build you own X](https://github.com/codecrafters-io/build-your-own-x)
 - [Big ball of mud](https://en.wikipedia.org/wiki/Spaghetti_code#Big_Ball_of_Mud)
+- [Lehman's laws of software evolution](https://en.wikipedia.org/wiki/Lehman%27s_laws_of_software_evolution)
 
 ### Videos
 
