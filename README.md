@@ -76,6 +76,7 @@ These are just some of the ones I can remember, please feel free to submit more 
   - [The Site reliability workbook](https://sre.google/workbook/table-of-contents/)
   - [Site reliability engineering](https://sre.google/sre-book/table-of-contents/)
 - [Software architecture meta patterns](https://metapatterns.io/)
+- [Programming as theory building](https://pages.cs.wisc.edu/~remzi/Naur.pdf)
 
 ### Websites
 
