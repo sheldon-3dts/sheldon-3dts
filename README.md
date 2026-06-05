@@ -1,6 +1,6 @@
 # Sheldon Blackbeard
 
-Currently building & breaking the next generation of defense tech 
+Currently building & breaking the next generation of security & defense tech 
 
 <!--
 **sheldon-3dts/sheldon-3dts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
