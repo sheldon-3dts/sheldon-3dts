@@ -77,7 +77,7 @@ These are just some of the ones I can remember, please feel free to submit more 
   - [Site reliability engineering](https://sre.google/sre-book/table-of-contents/)
 - [Software architecture meta patterns](https://metapatterns.io/)
 - [Programming as theory building](https://pages.cs.wisc.edu/~remzi/Naur.pdf)
-- [Peopleware](https://orion2020.org/archivo/articulos/00_peopleware.pdf)
+- [Peopleware](https://github.com/minhloc2011/books/blob/master/Peopleware%2C%203rd%20Edition.pdf)
 
 ### Websites
 
